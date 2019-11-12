@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp ./scripts/* $HOME/.local/bin
+echo "Dont forget to add $HOME/.local/bin to PATH"
