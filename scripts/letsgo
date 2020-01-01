@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "[G O  T I M E]"
+echo "================="
+echo "launching vsCode"
+code &
+sleep 0.5
+echo "launching firefox"
+firefox &
+sleep 0.5
+echo "launching Org schedule"
+emacs --file ~/Git/my-profile/general.org &
+
+echo -e "\nTime to git gud"
+exit 0
