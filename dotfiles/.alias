@@ -4,7 +4,12 @@ alias xx='exit'
 # git
 alias ggfs='git fetch && git status'
 alias ggs='git status'
-alias ggm='git commit -m'
 alias gga='git add .'
+alias ggm='git commit -m'
+alias ggam='git add . && git commit -m'
 alias ggs='git status'
 alias ggp='git push'
+
+# firefox
+alias ff-git='firefox --new-tab "https://github.com"'
+alias ff-lc='firefox --new-tab "https://leetcode.com"'
