@@ -1,0 +1,9 @@
+# general use
+alias xx='exit'
+
+# git
+alias ggfs='git fetch && git status'
+alias ggs='git status'
+alias gga='git add .'
+alias ggs='git status'
+alias ggp='git push'
