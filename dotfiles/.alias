@@ -4,6 +4,7 @@ alias xx='exit'
 # git
 alias ggfs='git fetch && git status'
 alias ggs='git status'
+alias ggm='git commit -m'
 alias gga='git add .'
 alias ggs='git status'
 alias ggp='git push'
