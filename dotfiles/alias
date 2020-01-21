@@ -11,5 +11,5 @@ alias ggs='git status'
 alias ggp='git push'
 
 # firefox
-alias ff-git='firefox --new-tab "https://github.com"'
-alias ff-lc='firefox --new-tab "https://leetcode.com"'
+alias ff-git='firefox --new-tab "https://github.com" &'
+alias ff-lc='firefox --new-tab "https://leetcode.com" &'
