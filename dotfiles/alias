@@ -9,7 +9,26 @@ alias ggm='git commit -m'
 alias ggam='git add . && git commit -m'
 alias ggs='git status'
 alias ggp='git push'
+alias ggget='git pull'
 
 # firefox
-alias ff-git='firefox --new-tab "https://github.com" &'
-alias ff-lc='firefox --new-tab "https://leetcode.com" &'
+alias ff-git='firefox --new-tab "https://github.com"'
+alias ff-lc='firefox --new-tab "https://leetcode.com"'
+
+# dev
+alias py='python3.8'
+
+# Lazy 
+alias gg-java='git clone git@github.com:deBubz/learning-java.git'
+alias gg-cpp='git clone git@github.com:deBubz/learning-cplusplus.git'
+alias gg-algo='git clone git@github.com:deBubz/learning-algo.git'
+alias gg-py='git clone git@github.com:deBubz/learning-py.git'
+alias gg-react='git clone git@github.com:deBubz/learning-react.git'
+alias gg-csharp='git clone git@github.com:deBubz/learning-csharp.git'
+alias gg-c='git clone git@github.com:deBubz/learning-c.git'
+alias gg-rs='git clone git@github.com:deBubz/learning-rust.git'
+
+alias gg-myprofile='git clone git@github.com:deBubz/my-profile.git'
+alias gg-dotfiles='git clone git@github.com:deBubz/dotfiles.git'
+alias gg-uni='git clone git@github.com:deBubz/UniNotes.git'
+
